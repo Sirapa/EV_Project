@@ -5,4 +5,4 @@ Body:
 This is a body
 
 Conclusion:
-This is a conclusion
+This is a conclusion. This is a second sentence.
